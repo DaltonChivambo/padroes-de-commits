@@ -234,15 +234,3 @@ git commit -m ":wrench: chore: remove deprecated functions"
 ```
 
 ---
-
-## 🧭 Dica final
-
-📁 **Sugestão:** Adicione este guia ao seu repositório como `CONVENTIONAL_COMMITS_GUIDE.md` ou inclua um resumo no `README.md`.
-Isso ajuda a manter **consistência entre todos os colaboradores** e **melhor rastreabilidade das mudanças**.
-
-```
-
----
-
-Deseja que eu gere esse conteúdo direto como um arquivo `.md` pronto para download?
-```
