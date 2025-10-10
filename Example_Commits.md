@@ -8,9 +8,8 @@ Cada commit deve começar com um **tipo**, opcionalmente seguido de um **escopo*
 
 ## 📘 Formato padrão
 
-
+````
 git commit -m "<emoji> <tipo>(<escopo opcional>): <descrição breve>"
-
 ````
 
 **Exemplo:**
