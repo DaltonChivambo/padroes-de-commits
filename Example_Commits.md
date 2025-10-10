@@ -1,5 +1,4 @@
 
-```markdown
 # 🧭 Conventional Commits Guide — Guia Completo e Ampliado
 
 Este guia descreve o padrão **Conventional Commits**, ajudando a manter um histórico de código **limpo, legível e automatizável**.  
@@ -9,7 +8,6 @@ Cada commit deve começar com um **tipo**, opcionalmente seguido de um **escopo*
 
 ## 📘 Formato padrão
 
-```
 
 git commit -m "<emoji> <tipo>(<escopo opcional>): <descrição breve>"
 
